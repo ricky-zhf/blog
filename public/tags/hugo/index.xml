@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>hugo - 标签 - zhf的技术博客</title>
+        <title>hugo - 标签 - rickyyy</title>
         <link>https://rickyzhf.cc/tags/hugo/</link>
-        <description>hugo - 标签 - zhf的技术博客</description>
+        <description>hugo - 标签 - rickyyy</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>568058082@qq.com (ricky)</managingEditor>
             <webMaster>568058082@qq.com (ricky)</webMaster><lastBuildDate>Wed, 04 Jan 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rickyzhf.cc/tags/hugo/" rel="self" type="application/rss+xml" /><item>
     <title>功能优化</title>

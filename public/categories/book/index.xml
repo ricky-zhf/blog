@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>book - 分类 - zhf的技术博客</title>
+        <title>book - 分类 - rickyyy</title>
         <link>https://rickyzhf.cc/categories/book/</link>
-        <description>book - 分类 - zhf的技术博客</description>
+        <description>book - 分类 - rickyyy</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>568058082@qq.com (ricky)</managingEditor>
             <webMaster>568058082@qq.com (ricky)</webMaster><lastBuildDate>Wed, 11 Jan 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rickyzhf.cc/categories/book/" rel="self" type="application/rss+xml" /><item>
     <title>clean code笔记</title>
